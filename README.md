@@ -140,3 +140,8 @@ Bird-Species-Observation-Analysis/
 ├── requirements.txt
 ├── README.md
 └── images/
+👤 Author
+
+Ankan Chowdhury
+
+Data Analytics Project
