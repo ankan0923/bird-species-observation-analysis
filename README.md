@@ -126,7 +126,7 @@ The analysis can support:
 
 The Streamlit dashboard link will be added here after deployment.
 
-**Live App:** Coming Soon
+**Live App:** https://birdpy-krzxsxlcxhbiwc3mmwocmj.streamlit.app
 
 ---
 👤 Author
