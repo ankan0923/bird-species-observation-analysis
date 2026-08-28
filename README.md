@@ -144,6 +144,3 @@ Bird-Species-Observation-Analysis/
 ├── requirements.txt
 ├── README.md
 └── images/
-
-
----
