@@ -129,7 +129,11 @@ The Streamlit dashboard link will be added here after deployment.
 **Live App:** Coming Soon
 
 ---
+👤 Author
 
+Ankan Chowdhury
+
+Data Analytics Project
 ## 📁 Repository Structure
 
 ```text
@@ -140,8 +144,6 @@ Bird-Species-Observation-Analysis/
 ├── requirements.txt
 ├── README.md
 └── images/
-👤 Author
 
-Ankan Chowdhury
 
-Data Analytics Project
+---
